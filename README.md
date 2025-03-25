@@ -1,0 +1,1 @@
+This is a repository containing the code referenced in the paper "Simulation of cyanobacteria behavior in water bodies with cell-DEVS and Lattice-Boltzmann methods" presented in ANNSIM'25 by Ferrero-Losada et al.
